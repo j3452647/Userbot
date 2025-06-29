@@ -5,7 +5,7 @@ InputAudioStream
 import asyncio
 
 API_ID = 22553378
-API_HASH = 55c94444ce8830c3247dd72881a26f39
+API_HASH = "55c94444ce8830c3247dd72881a26f39"
 SESSION = "BQFYIyIANdShGVMRe557Z9Tlp_wNwsf...."
 
 app = Client(session_name=SESSION,api_id=API_ID,api_hash=API_HASH)
